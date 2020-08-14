@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [Microverse](https://microverse.org/)
-- 🌱 I’m currently learning how to be a Human
+- 🌱 I’m currently learning Ruby
 - 🥅 2020 Goals: Complete Microverse Technical Curriculum [<img align="left" alt="HTML5" width="20px" src="https://emoji.slack-edge.com/T47CT8XPG/microverse/629482f85f0b8564.png" />]
 - ⚡ Fun fact: I am a cat person 🐈
 
