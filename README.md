@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Microverse](https://microverse.org/)
 - 🌱 I’m currently learning Ruby
 - 🥅 2020 Goals: Complete Microverse Course
-- ⚡ Fun fact: I am a cat person 🐈
+- ⚡ Fun fact: I love travelling ✈️
 
 [![Umar's github stats](https://github-readme-stats.vercel.app/api?username=mohammadumar28)](https://github.com/mohammadumar28)
 
