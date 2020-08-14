@@ -5,7 +5,7 @@
 - 🥅 2020 Goals: Complete Microverse Course
 - ⚡ Fun fact: I am a cat person 🐈
 
-[![Umar's github stats](https://github-readme-stats.vercel.app/api?username=mohammadumar28)](https://github.com/anuraghazra/github-readme-stats)
+[![Umar's github stats](https://github-readme-stats.vercel.app/api?username=mohammadumar28)](https://github.com/mohammadumar28)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadumar28&layout=compact)](https://github.com/mohammadumar28)
 
