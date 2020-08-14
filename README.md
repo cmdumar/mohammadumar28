@@ -10,6 +10,8 @@
 [<img align="left" alt="Muhammad Umar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Muhammad Umar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+### Stats
+
 [![Umar's github stats](https://github-readme-stats.vercel.app/api?username=mohammadumar28)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/Mohammadumar28
